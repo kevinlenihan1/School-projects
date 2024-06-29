@@ -1,0 +1,3 @@
+# Kevin Lenihan May 12 2024
+# This code creates text that says "Hello, world!"
+print("Hello, world!")
